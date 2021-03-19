@@ -10,6 +10,11 @@ It is preferable to include the code on an always running computer (ex: raspberr
 This project was done using GMAIL API, and Pushbullet notifier API
 
 # Dependencies
+(you can install these using pip)
+pushbullet.py
+google-api-python-client google-auth-httplib2 google-auth-oauthlib
+
+# First time initialization
 You need to get your own gmail api credentials (you can download the credentials.json for your gmail from google cloud).
 You need to sign up for Pushbullet, download the application on your mobile phone (iOS/Android), and get the API key and device name.
 
