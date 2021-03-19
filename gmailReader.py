@@ -22,7 +22,6 @@ from bs4 import BeautifulSoup
 # Request all access (permission to read/send/receive emails, manage the inbox, and more)
 # SCOPES = ['https://mail.google.com/']
 SCOPES = ['https://www.googleapis.com/auth/gmail.readonly']
-our_email = 'hatemghamed@gmail.com'
 
 def gmail_authenticate():
     creds = None
