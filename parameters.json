@@ -1,7 +1,0 @@
-{
-    "Pushbullet":"API key",
-    "device":"pushbullet device name",
-    "your_email":"your email",
-    "search_for_word":"your search query",
-    "received_from_word":"the email or the domain of the sender (could be in the form of @guc.edu.eg)"
-}
