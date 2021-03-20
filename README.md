@@ -33,3 +33,6 @@ Put the code, credentials.json inside the folder
 
 Fill in the desired query options in query.json
 Run query_notify.py
+
+# Credits
+The project was done with the help of this tutorial https://www.thepythoncode.com/article/use-gmail-api-in-python
