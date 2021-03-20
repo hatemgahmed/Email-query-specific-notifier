@@ -22,9 +22,9 @@ google-api-python-client google-auth-httplib2 google-auth-oauthlib
 
 # First time initialization
 
-You need to get your own gmail api credentials (you can download the credentials.json for your gmail from google cloud).
+You need to get your own gmail api credentials (you can download the credentials.json for your gmail from google cloud https://console.cloud.google.com/apis/api/gmail.googleapis.com/).
 
-You need to sign up for Pushbullet, download the application on your mobile phone (iOS/Android), and get the API key and device name, and put them in pushbullet_parameters.json
+You need to sign up for Pushbullet (https://www.pushbullet.com/), download the application on your mobile phone (iOS/Android), and get the API key and device name, and put them in pushbullet_parameters.json
 
 
 # How to Run
