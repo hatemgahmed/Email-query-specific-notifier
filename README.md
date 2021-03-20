@@ -24,11 +24,12 @@ google-api-python-client google-auth-httplib2 google-auth-oauthlib
 
 You need to get your own gmail api credentials (you can download the credentials.json for your gmail from google cloud).
 
-You need to sign up for Pushbullet, download the application on your mobile phone (iOS/Android), and get the API key and device name.
+You need to sign up for Pushbullet, download the application on your mobile phone (iOS/Android), and get the API key and device name, and put them in pushbullet_parameters.json
 
 
 # How to Run
 
-Put the code, credentials.json inside 1 folder
+Put the code, credentials.json inside the folder
 
-Fill in the personalized information in parameters.json
+Fill in the desired query options in query.json
+Run query_notify.py
